@@ -1,0 +1,97 @@
+﻿@model TodoViewModel
+<html>
+    <body>
+        <head>
+    <meta charset="utf-8" />
+            <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" /> 
+</head>
+
+        <form asp-action="Adding" id="form-action" method="post" class="form-horizontal" role="form">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div style="text-align:center;color:blue"><head><h2><b>To-Do List</b></h2></head></div><br><br>
+            <div class="row justify-content-center" style="text-align:center">
+                <div class="col-xl-6 col-lg-8 col-md-8 col-sm-10">
+                    <label asp-for="Todo.SubjectId">Subject</label><br>
+                    <input asp-for="Todo.SubjectId" />
+                    <span asp-validation-for="Todo.SubjectId"></span><br>
+                    <label asp-for="Todo.Message"> Message </label><br>
+                    <input asp-for="Todo.Message" />
+                    <span asp-validation-for="Todo.Message"></span><br>
+                    <label asp-for="Todo.Date"> Date </label>
+                    <input asp-for="Todo.Date" asp-format="{0:dd/MM/yyyy HH:mm}" class="form-control" />
+                    <span asp-validation-for="Todo.Date"></span>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-xl-6 col-lg-8 col-md-8 col-sm-10 mt-3 mb-5" style="text-align:center" >
+                    <input type="submit" id="form-button" class="btn btn-success" value="Add"  />
+                </div>
+            </div>
+        </form>
+  
+                <form asp-action="Searching" id="form-action" method="post" class="form-horizontal" role="form">
+                    <div asp-validation-summary="All" class="text-danger"></div>
+
+                    <div class="row justify-content-center">
+                        <div class="col-xl-6 col-lg-8 col-md-8 col-sm-10">
+                            <div style="text-align:center">                   
+                            <input asp-for="Todo.SubjectId" placeholder="Subject  ..."/>
+                            <span asp-validation-for="Todo.SubjectId" ></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-xl-6 col-lg-8 col-md-8 col-sm-10 mt-3 mb-5" style="text-align:center" >
+                            <input type="submit" id="form-button" class="btn btn-dark" value="Search"  />
+                        </div>
+                    </div>
+                </form>
+       
+           
+                <form asp-action="Deleting" id="form-action" method="post" class="form-horizontal" role="form">
+                    <div asp-validation-summary="All" class="text-danger"></div>
+
+                    <div class="row justify-content-center">
+                        <div class="col-xl-6 col-lg-8 col-md-8 col-sm-10">
+                            <div style="text-align:center">
+                            <input asp-for="Todo.SubjectId" placeholder="Subject  ..."/>
+                            <span asp-validation-for="Todo.SubjectId"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-xl-6 col-lg-8 col-md-8 col-sm-10 mt-3 mb-5" style="text-align:center" >
+                            <input type="submit" id="form-button" class="btn btn-danger" value="Delete"  />
+                        </div>
+                    </div>
+                </form>
+       
+       
+
+        <div class="row justify-content-center">
+            <div class="col-xl-6 col-lg-8 col-md-8 col-sm-10">
+                <div><h2>Tasks</h2></div>
+                <table class="table table-bordered table-dark">
+                    <thead>
+                        <tr class="table-primary">
+                            <th scope="col">Topic</th>
+                            <th scope="col">Description</th>
+                            <th scope="col">DeadLine</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var t in Model.TodoList)
+                        {
+                            <tr>
+                                <th class="todos-column" scope="row">@t.SubjectId</th>
+                                <td class="todos-column">@t.Message</td>
+                                <td class="todos-column">@t.Date</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

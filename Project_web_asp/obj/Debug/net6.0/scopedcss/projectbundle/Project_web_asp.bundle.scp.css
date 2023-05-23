@@ -1,0 +1,55 @@
+/* _content/Project_web_asp/Views/Home/Index.cshtml.rz.scp.css */
+.float-container[b-1qtr62nifx] { 
+    width: 50%; 
+} 
+.float-child1[b-1qtr62nifx] { 
+    float: left; 
+    width: 50%; 
+} 
+/* _content/Project_web_asp/Views/Shared/_Layout.cshtml.rz.scp.css */
+
+a.navbar-brand[b-pdax718y24] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-pdax718y24] {
+  color: #0077cc;
+}
+
+.btn-primary[b-pdax718y24] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-pdax718y24], .nav-pills .show > .nav-link[b-pdax718y24] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-pdax718y24] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-pdax718y24] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-pdax718y24] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-pdax718y24] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-pdax718y24] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

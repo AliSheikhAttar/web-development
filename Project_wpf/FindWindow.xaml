@@ -1,0 +1,14 @@
+﻿<Window x:Class="Project_wpf.FindWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_wpf"
+        mc:Ignorable="d"
+        Title="FindWindow" Height="112" Width="194">
+    <StackPanel>
+        <Label Background="#32ad3a" FontSize="14">type the subject of the task</Label>
+        <TextBox Name="tbTopic2Find" Text = "{Binding Topic2Find}"/>
+        <Button Click="Close" FontSize="12" Height="30"> Find</Button>
+    </StackPanel>
+</Window>

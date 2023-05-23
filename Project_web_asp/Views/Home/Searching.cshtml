@@ -1,0 +1,13 @@
+@model To_DoApiCli.Model.ToDo;
+<html>
+    <body>
+        <div style="align-content: center;margin-top:20%;margin-left:40%">
+                    <div style="font-size:30px"><b><div style="font-size:14px">Subject : </div>@Model.SubjectId</b></div>
+                    <div style="font-size:30px"><b><div style="font-size:14px">Description : </div>@Model.Message</b></div>
+                    <div style="font-size:30px" ><b><div style="font-size:14px">DeadLine : </div>@Model.Date</b></div>
+                    <br>
+                <a href="http://localhost:5212" class="btn btn-primary btn-lg active" role="button" aria-pressed="true" >Back to ToDoList
+                </a>
+        </div>
+    </body>
+</html>

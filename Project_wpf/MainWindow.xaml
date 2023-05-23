@@ -1,0 +1,30 @@
+﻿<Window x:Class="Project_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="650" Width="800">
+    <StackPanel  Background="DarkBlue">
+        <TextBox Name="Book" Height="222" Foreground="Blue" Background="#68c4a9" FontSize="17" TextAlignment="Center"/>
+        <Label HorizontalAlignment="Center" Foreground="White" FontSize="18" Margin="42,0,40,0">Topic</Label>
+        <TextBox Width="300" FontSize="19" Background="#b3b3b3" Foreground="#001a1a" Name = "tbTopic" Height = "28" Text = "{Binding Topic}"/>
+        <Label HorizontalAlignment="Center" Foreground="White" FontSize="18" >Dead Line</Label>   
+        <DatePicker Height="25" HorizontalAlignment="Center" Margin="42,5,20,0" Name="tbDeadDate" VerticalAlignment="Center" Width="115"/>  
+        <Label HorizontalAlignment="Center" Foreground="White" FontSize="18" >Context</Label>
+        <TextBox Width="300" FontSize="19" Background="#b3b3b3" Foreground="#001a1a" Name = "tbContext" Height = "28" Text = "{Binding Context}"/>
+        <Button Margin = "120,10,110,0" Height = "40" Width="110" FontSize="18" Padding="6"
+                    Background="#000000" Foreground="#ffffff" Click = "Add"  VerticalAlignment="Center" HorizontalAlignment="Center" > Add </Button>
+        <Button Margin = "120,10,110,0" Height = "40" Width="110" FontSize="18" Padding="6"
+                    Background="#000000" Foreground="#ffffff" Click = "Delete"  VerticalAlignment="Center" HorizontalAlignment="Center" > Delete </Button>
+        <Button Margin = "120,10,110,0" Height = "40" Width="110" FontSize="18" Padding="6"
+                    Background="#000000" Foreground="#ffffff" Click = "Get_Tasks"  VerticalAlignment="Center" HorizontalAlignment="Center" > ToDoList </Button>
+        <Button Margin = "120,10,110,0" Height = "40" Width="110" FontSize="18" Padding="6"
+                    Background="#000000" Foreground="#ffffff" Click = "Find_Task"  VerticalAlignment="Center" HorizontalAlignment="Center" > Find </Button>
+        <Button Margin = "120,10,110,0" Height = "40" Width="110" FontSize="18" Padding="6"
+                    Background="#000000" Foreground="#ffffff" Click = "Reset"  VerticalAlignment="Center" HorizontalAlignment="Center" > Clear Page </Button>
+        <Button Margin = "120,10,110,0" Height = "40" Width="110" FontSize="18" Padding="6"
+                    Background="#000000" Foreground="Red" Click = "Clear_List"  VerticalAlignment="Center" HorizontalAlignment="Center" > Clear List </Button>
+    </StackPanel>
+</Window>

@@ -1,0 +1,244 @@
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.csproj.AssemblyReference.cache
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\Project_wpf_MarkupCompile.cache
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\To_DoApiCli.Test.deps.json
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\To_DoApiCli.Test.runtimeconfig.json
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\Project_wpf.exe
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\Project_wpf.deps.json
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\Project_wpf.runtimeconfig.json
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\Project_wpf.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\ref\Project_wpf.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\Project_wpf.pdb
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\JsonSubTypes.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\testhost.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\Polly.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\xunit.abstractions.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\xunit.assert.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\xunit.core.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\xunit.execution.dotnet.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\Project_lib.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\To_DoApiCli.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\To_DoApiCli.Test.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\Project_lib.pdb
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\To_DoApiCli.pdb
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\To_DoApiCli.xml
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\bin\Debug\net6.0-windows\To_DoApiCli.Test.pdb
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\Project_wpf_MarkupCompile.lref
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.g.resources
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.AssemblyInfoInputs.cache
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.AssemblyInfo.cs
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.csproj.CopyComplete
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\ref\Project_wpf.dll
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.pdb
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.genruntimeconfig.cache
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\FindWindow.g.cs
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\FindWindow.baml
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\DeleteWindow.g.cs
+C:\Users\Ali\Downloads\Telegram Desktop\Project_AP\Project_wpf\obj\Debug\net6.0-windows\DeleteWindow.baml
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\xunit.runner.reporters.netcoreapp10.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\xunit.runner.utility.netcoreapp10.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\To_DoApiCli.Test.deps.json
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\To_DoApiCli.Test.runtimeconfig.json
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\Project_wpf.exe
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\Project_wpf.deps.json
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\Project_wpf.runtimeconfig.json
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\Project_wpf.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\ref\Project_wpf.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\Project_wpf.pdb
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\JsonSubTypes.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\testhost.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\Polly.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\RestSharp.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\xunit.abstractions.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\xunit.assert.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\xunit.core.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\xunit.execution.dotnet.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\Project_lib.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\To_DoApiCli.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\To_DoApiCli.Test.dll
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\Project_lib.pdb
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\To_DoApiCli.pdb
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\To_DoApiCli.xml
+C:\git\AP00012\FinalProject\Project_wpf\bin\Debug\net6.0-windows\To_DoApiCli.Test.pdb
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.csproj.AssemblyReference.cache
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\DeleteWindow.g.cs
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\FindWindow.g.cs
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\App.g.cs
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\Project_wpf_MarkupCompile.cache
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\Project_wpf_MarkupCompile.lref
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\DeleteWindow.baml
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\FindWindow.baml
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.g.resources
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.AssemblyInfoInputs.cache
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.AssemblyInfo.cs
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.csproj.CoreCompileInputs.cache
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.csproj.CopyComplete
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.dll
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\ref\Project_wpf.dll
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.pdb
+C:\git\AP00012\FinalProject\Project_wpf\obj\Debug\net6.0-windows\Project_wpf.genruntimeconfig.cache
