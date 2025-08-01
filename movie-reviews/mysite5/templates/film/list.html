@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>form for including Review</title>
+    <!-- Required meta tags -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" >
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no, maximum-scale=1, user-scalable=no">
+    <meta name="mobile-web-app-website-capable" content="yes" >
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </head>
+  <body
+    style="background-image: url(https://cdn.zoomg.ir/2021/3/travis-bickle-watching-movie.jpg);background-repeat: no-repeat; background-size: cover;font-family:Verdana;">
+    <div class="container-fluid">
+      <form action="/add_movie/" method="post">{% csrf_token %}
+        <div class="table-responsive">
+          <center>
+            <div style="padding-top: 60px; font-size: large;color: rgb(255, 255, 255); " class="form-group">
+              <label for="username">username</label>
+              <input
+                style="width: 20%;background:inherit; color: rgb(255, 255, 255) ;border: 1px solid whitesmoke;background-color: rgb(0, 0, 0);opacity: 0.5;"
+                type="text" class="form-control" name="username" id="username" placeholder="enter a username">
+              <small id="username" style="color: rgb(129, 48, 235);" class="text-muted">
+                <p style="color: rgb(204, 207, 170);">enter a valid username up to 15 letters</p>
+              </small>
+            </div>
+          </center>
+          <center>
+            <div style=" font-size: large; color: rgb(255, 255, 255); " class="form-group">
+              <label for="name">name</label>
+              <input
+                style="width: 20%;background:inherit; color: rgb(255, 255, 255) ;border: 1px solid whitesmoke;background-color: rgb(0, 0, 0);opacity: 0.5;"
+                type="text" class="form-control" name="name" id="name" placeholder="title...">
+            </div>
+          </center>
+          <center>
+            <div style=" font-size: large;color: rgb(255, 255, 255); " class="form-group">
+              <label for="director">director</label>
+              <input
+                style="width: 20%;background:inherit;border: 1px solid rgb(255, 255, 255);color: rgb(255, 255, 255) ;background-color: rgb(0, 0, 0);opacity: 0.5;"
+                type="text" class="form-control" name="director" id="director" placeholder="directors' name" size="50">
+            </div>
+          </center>
+          <center>
+            <div style="font-size: large;color: rgb(255, 255, 255);" class="form-group">
+              <label for="description">description</label>
+              <textarea
+                style="width: 25%;width: 25%;background: transparent;border: 1px solid whitesmoke;color: rgb(255, 255, 255) ;background-color: rgb(0, 0, 0);opacity: 0.4;"
+                class="form-control" name="description" id="description" rows="3"
+                placeholder="write your comment about it...." size="50"></textarea>
+            </div>
+          </center>
+          <center>
+            <div style=" font-size: large;color: rgb(255, 255, 255); color: rgb(255, 255, 255); " class="form-group">
+              <label for="Score">Score</label>
+              <input
+                style="width: 15%; height: 400% ;background:inherit;border: 1px solid whitesmoke;color: rgb(255, 255, 255) ;background-color: rgb(0, 0, 0);opacity: 0.4;"
+                type="number" step="any" class="form-control" name="Score" id="Score" placeholder="enter a score" />
+              <small id="Score" style="color: rgb(129, 48, 235);" class="text-muted">
+                <p style="color: rgb(248, 250, 226);">give your score up to 10</p>
+              </small>
+            </div>
+          </center>
+          <div class="text-center" style="padding-top: 120px;"><button type="submit"
+              class="btn btn-primary">Submit</button></div>
+        </div>
+      </form>
+    </div>
+  
+  </body>
+  
+  </html>
