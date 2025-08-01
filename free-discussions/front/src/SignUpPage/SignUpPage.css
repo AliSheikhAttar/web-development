@@ -1,0 +1,186 @@
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .login-page {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    font-family: Arial, sans-serif;
+    background-color: #fefefe;
+    overflow: hidden;
+  }
+  
+  .welcome-section {
+    flex: 1;
+
+    background-color: #112D32;
+    color: #f4f4f9;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 190vh;
+    transform: rotate(29deg); 
+    position: relative;
+    top: -38vh; 
+    left: -18vw; 
+  }
+  
+  .heading {
+    display: inline-block;
+    border-bottom: 5px outset #2b3147;
+    padding-top: 40px;
+  }
+  .welcome-section h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .welcome-section p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  
+  .login-section {
+    flex: 1;
+    height: 100vh;
+    background-color: #fefefe;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2em;
+  }
+  
+  .login-section h2 {
+    font-size: 2.3rem;
+    color: #2b3147;
+    margin-bottom: 7rem; 
+    margin-top: -3rem; 
+  }
+  
+  .login-form {
+    width: 100%;
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+   
+  }
+  
+  .input-group {
+    position: relative;
+    margin-bottom: 2.5rem;
+    /* font-size: 2rem; */
+  }
+  
+  .input-group label {
+    font-size: 1.2rem;
+    color: #2b3147;
+    margin-bottom: 0.1rem;
+    display: block;
+  }
+  
+
+
+  .input-group input {
+    width: 100%;
+    padding: 0.5rem 0;
+    /* padding-left: 1rem; */
+    border: none; /* Remove full border */
+    border-bottom: 2px solid #2b3147; /* Only a line at the bottom */
+    font-size: 0.9rem; /* Larger font size */
+    background-color: transparent; /* No background color */
+    outline: none; /* Remove default outline */
+    text-align: left;
+    color: black;
+  }
+
+  .input-group input::placeholder {
+    color: #bbb; 
+  }
+
+
+  .input-group .icon {
+    position: absolute;
+    right: 0.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #112D32;
+    font-size: 24px;
+   
+  }
+
+  .forgot-password {
+    font-size: 0.8rem;
+    color: #112D32;
+    text-align: right;
+    margin-bottom: 2.6rem;
+    padding-top: 0; 
+    margin-top: -2.2rem;
+  }
+
+  .login-button {
+    width: 100%;
+    padding: 0.5rem;
+    background-color: #2b3147;
+    color: white;
+    border: none;
+    /* border-radius: 5px; */
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 100px;
+  }
+
+  .button-18 {
+    align-items: center;
+    background-color: #2b3147;
+    border: none;
+    border-radius: 100px;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 50px;
+    max-width: 480px;
+    min-height: 40px;
+    width: 100%; 
+    padding: 0 20px;
+    text-align: center;
+    transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+    user-select: none;
+  }
+  
+  
+  .sign-up {
+    font-size: 0.9rem;
+    color: #112D32;
+    margin-top: 1rem;
+    /* margin-bottom: -4rem; */
+  }
+  
+  .sign-up a {
+    color: #112D32;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  .Circular{
+    margin-left: 45%;
+  }
+
+  .error-message {
+    font-size: 2rem; 
+    color: black; 
+  }
+
+  .Filed {
+    width: 100%;
+    padding-right: 30px; /* Add padding so text doesn't overlap with icon */
+  }

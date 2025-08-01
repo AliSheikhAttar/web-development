@@ -1,0 +1,102 @@
+
+.btn {
+    transition: all 0.3s ease-in-out;
+    font-family: "Dosis", sans-serif;
+  }
+  
+  .btn {
+    width: 100px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: #6b8f93;
+    outline: none;
+    cursor: pointer;
+    border: none;
+    font-size: 16px;
+    color: white;
+  }
+  
+  .btn:hover {
+    transform: translateY(3px);
+    box-shadow: none;
+  }
+  
+  .btn:active {
+    opacity: 0.5;
+  }
+
+
+
+ .ResetPass
+ {
+    cursor: pointer;
+    line-Height:45px;
+    font-Size:14px;
+    color:Grey;
+    text-decoration:underline; 
+ }
+
+
+
+
+ .button1 {
+    background-color: #eee;
+    border: 2px solid lightcoral ;
+    font-size: 1rem;
+    width: 10em;
+    border-radius: 1rem;
+    color: lightcoral;
+    cursor: pointer;
+   }
+   
+   .button1:active {
+    color: white;
+    box-shadow: 0 0.2rem #dfd9d9;
+    transform: translateY(0.2rem);
+   }
+   
+   .button1:hover:not(:disabled) {
+    background: lightcoral;
+    color: white;
+    text-shadow: 0 0.1rem #bcb4b4;
+   }
+   
+   .button1:disabled {
+    cursor: auto;
+    color: grey;
+   }
+
+
+
+
+
+
+
+   .button2 {
+    background-color: #eee;
+    border: 2px solid rgb(106, 240, 79) ;
+    font-size: 1rem;
+    width: 10em;
+    border-radius: 1rem;
+    color: rgb(106, 240, 79);
+    cursor: pointer;
+   }
+   
+   .button2:active {
+    color: white;
+    box-shadow: 0 0.2rem #dfd9d9;
+    transform: translateY(0.2rem);
+   }
+   
+   .button2:hover:not(:disabled) {
+    background: rgb(106, 240, 79);;
+    color: white;
+    text-shadow: 0 0.1rem #bcb4b4;
+   }
+   
+   .button2:disabled {
+    cursor: auto;
+    color: grey;
+   }
+
+

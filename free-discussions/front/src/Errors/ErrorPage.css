@@ -1,0 +1,44 @@
+body, html {
+  font-family: 'Vazir', Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+  .error-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+    padding: 20px;
+    direction: rtl;
+    font-family: Tahoma, sans-serif;
+    background-color: #ebaf8d;
+    color: white;
+  }
+  
+  .error-container h1 {
+    font-size: 3em;
+    font-weight: bold;
+    margin: 20px 0;
+  }
+  
+  .error-container p {
+    font-size: 1.75em;
+    margin: 10px 0 30px;
+  }
+  
+  .error-image-main {
+    max-width: 100%;
+    width: 300px;  /* Set the desired width */
+    height: auto;  /* Auto-adjust the height to maintain aspect ratio */
+    margin-bottom: 20px;
+  }
+  .error-image {
+    max-width: 100%;
+    width: 100px;  /* Set the desired width */
+    height: auto;  /* Auto-adjust the height to maintain aspect ratio */
+    margin-bottom: 20px;
+  }

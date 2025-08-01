@@ -1,0 +1,103 @@
+/* Profile Card Styles */
+
+.profile-card {
+  width: 100%;
+  max-width: 600px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+.profile-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 16px;
+}
+
+.details {
+  flex: 1;
+  text-align: left;
+}
+
+.name {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.role {
+  font-size: 1.2rem;
+  color: #666;
+  margin-bottom: 12px;
+}
+
+.description {
+  font-size: 1rem;
+  color: #777;
+  margin-bottom: 15px;
+}
+
+.icons {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.social-icon {
+  font-size: 1.5rem;
+  color: #0073b1; /* LinkedIn color */
+  transition: transform 0.3s;
+}
+
+.social-icon:hover {
+  transform: scale(1.2);
+}
+
+/* Responsive Adjustments */
+
+@media (max-width: 600px) {
+  .profile-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .avatar {
+    margin-right: 0;
+    margin-bottom: 16px;
+  }
+
+  .details {
+    text-align: center;
+  }
+
+  .name {
+    font-size: 1.3rem;
+  }
+
+  .role {
+    font-size: 1.1rem;
+  }
+
+  .description {
+    font-size: 0.95rem;
+  }
+}
+
+/* Responsive Adjustments for Narrow Screens */
+@media (max-width: 600px) {
+  .profile-content {
+    align-items: center; /* Ensure all content is centered */
+  }
+
+  .icons {
+    justify-content: center; /* Explicitly center icons */
+  }
+}

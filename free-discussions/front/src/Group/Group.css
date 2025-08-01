@@ -1,0 +1,93 @@
+/* Group.css */
+
+/* Container for each group */
+.group {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Avatar styling */
+.group-avatar img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+/* Information about the group */
+.group-info {
+  flex: 1;
+  margin-left: 15px;
+}
+
+/* Header containing the group name */
+.group-header {
+  /* No longer a flex container since we removed time from here */
+  margin-bottom: 5px;
+}
+
+/* Group name styling */
+.group-name {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+}
+
+/* Last message styling */
+.group-last-message {
+  color: #666;
+}
+
+/* Action area containing the button and time */
+.group-action-area {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end; /* Align to the right */
+}
+
+/* Action button styling */
+.group-action-button {
+  padding: 8px 16px;
+  background-color: #007bff; /* Blue color for Join button */
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+  /* Remove margin-left: auto; since we're aligning within group-action-area */
+}
+
+/* Hover effect for the action button */
+.group-action-button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Focus effect for the action button */
+.group-action-button:focus {
+  outline: none;
+  box-shadow: 0 0 4px rgba(0, 123, 255, 0.5);
+}
+
+/* Styles specifically for the Leave button */
+.group-action-button.leave-button {
+  background-color: #CD5C5C; /* Red color for Leave button */
+}
+
+.group-action-button.leave-button:hover {
+  background-color: #c82333; /* Darker red on hover */
+}
+
+.group-action-button.leave-button:focus {
+  box-shadow: 0 0 4px rgba(220, 53, 69, 0.5);
+}
+
+/* Styling for the date and time under the button */
+.group-time {
+  font-size: 12px;
+  color: #999;
+  margin-top: 5px; /* Space between button and time */
+  text-align: right; /* Align text to the right */
+}

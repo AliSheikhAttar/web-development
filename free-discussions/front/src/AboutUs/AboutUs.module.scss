@@ -1,0 +1,117 @@
+.TextImage {
+  @apply flex flex-col md:flex-row justify-center items-center p-6;
+  border: 3px solid #6b8f93;
+  box-shadow: 0 0 6px #6b8f93;
+  border-radius: 35px;
+  animation: borderColorChange 3s infinite;
+  margin: 2rem auto;
+  max-width: 90%;
+  width: 80%;
+}
+
+.img {
+  width: 100%;
+  max-width: 550px;
+  height: auto;
+  margin-bottom: 1.5rem;
+  border-radius: 20px;
+}
+
+.GeneralTxt {
+  text-align: center;
+  line-height: 1.8;
+  padding: 3rem;
+  max-width: 520px;
+}
+
+.Topic {
+  font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.Body {
+  font-size: 1.289rem;
+  line-height: 1.6;
+}
+
+.Topic2 {
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: center;
+  margin: 4rem 0;
+}
+
+.item__row {
+  @apply flex flex-col md:flex-row justify-center items-start gap-28 px-4 mt-20;
+}
+
+.WhyUsContents {
+  flex: 1;
+  max-width: 340px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.WhyUsTopics {
+  font-size: 1.29rem;
+  font-weight: bold;
+  margin-bottom: 0.8rem;
+}
+
+.WhyUsParagraphs {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.Font {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .TextImage {
+    flex-direction: column; /* Stack the image and text vertically */
+    align-items: center;
+  }
+
+  .GeneralTxt {
+    padding: 2rem; /* Reduce padding for smaller screens */
+    max-width: 100%; /* Allow the text to take up more space */
+  }
+
+  .item__row {
+    flex-direction: column; /* Stack the Why Us sections vertically */
+    gap: 2rem; /* Add spacing between stacked items */
+  }
+
+  .WhyUsContents {
+    max-width: 100%; /* Allow contents to take up the full width */
+    margin-bottom: 20px; /* Reduce the bottom margin */
+  }
+
+  .Topic2 {
+    font-size: 1.5rem; /* Reduce font size for smaller screens */
+    margin: 2rem 0;
+  }
+
+  .WhyUsTopics {
+    font-size: 1.1rem; /* Adjust font size for smaller screens */
+  }
+
+  .WhyUsParagraphs {
+    font-size: 1rem; /* Adjust paragraph font size */
+  }
+}
+
+@keyframes borderColorChange {
+  0% {
+    border-color: #6b8f93;
+  }
+  50% {
+    border-color: #b3bebe;
+  }
+  100% {
+    border-color: #6b8f93;
+  }
+}

@@ -1,0 +1,50 @@
+/* Team Page Styles */
+
+.team-page {
+  padding: 32px 16px;
+  text-align: center;
+}
+
+.team-title {
+  font-size: 2.5rem;
+  margin-bottom: 32px;
+  color: #333;
+}
+
+@media (max-width: 600px) {
+  .team-page {
+    padding: 16px;
+  }
+
+  .team-title {
+    font-size: 2rem;
+    margin-bottom: 24px;
+  }
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 32px;
+}
+
+@media (min-width: 600px) {
+  .team-grid {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 24px;
+  }
+}
+
+@media (min-width: 900px) {
+  .team-grid {
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 32px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .team-grid {
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 40px;
+  }
+}

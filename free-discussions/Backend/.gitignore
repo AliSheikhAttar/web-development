@@ -1,0 +1,8 @@
+Makefile
+venv/
+.env
+**/__pycache__/
+.Dockerignore
+.env.docker
+alertmanager.yml
+.vscode/

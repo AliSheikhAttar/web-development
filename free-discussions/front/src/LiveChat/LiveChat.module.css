@@ -1,0 +1,92 @@
+.chatContainer {
+  @apply p-4 mb-20 border border-gray-300;
+  width: 1150px;
+  height: 150vh;
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+}
+
+.header {
+  @apply text-center mx-5;
+}
+
+.messageBox {
+  @apply border border-gray-300 p-4 overflow-y-auto mb-4 rounded-lg flex-grow;
+}
+
+.message {
+  @apply mb-2  p-2 text-gray-700 rounded flex flex-col;
+
+  max-width: 50%; 
+  word-wrap: break-word;
+
+}
+
+.otherMessage {
+  @apply bg-[rgb(235,175,141)] ;
+}
+
+.myMessage {
+  @apply bg-[#6b8f93];
+  margin-left: 560px;
+}
+
+.messageInfo {
+  @apply ml-2 mr-2;
+}
+
+.timestamp {
+  @apply text-gray-600 mt-1 flex flex-row justify-between;
+
+}
+
+.inputContainer {
+  @apply flex flex-row gap-2;
+}
+
+.inputField {
+  @apply flex-grow border border-gray-300 rounded-lg p-2;
+}
+
+.sendButton {
+  @apply bg-[rgb(235,175,141)] text-white rounded-lg px-4 py-2 hover:bg-orange-600;
+}
+
+
+
+
+.emojiButton {
+  @apply bg-gray-200 text-gray-700 rounded-lg px-3 py-2 hover:bg-gray-300;
+  cursor: pointer;
+}
+
+
+
+.title {
+  @apply text-xl font-bold; /* Keep the title styling */
+
+}
+
+.header {
+  position: relative;
+  display: flex;
+  justify-content: center; /* Center the title horizontally */
+  align-items: center; /* Center items vertically */
+  padding: 0 20px;
+  height: 60px;
+  background-color: #f8f9fa;
+}
+
+.header h1 {
+  margin: 0;
+  flex: 1; /* Allow the title to take up available space for proper centering */
+  text-align: center; /* Ensure the title text is centered */
+}
+
+.noticeButton {
+  position: absolute;
+  right: 20px; /* Place the notice board at the rightmost */
+  top: 50%; /* Center vertically */
+  transform: translateY(-50%);
+}

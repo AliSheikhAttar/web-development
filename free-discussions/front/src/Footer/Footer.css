@@ -1,0 +1,83 @@
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.footer-contact,
+.footer-about,
+.footer-social {
+  flex: 1;
+  margin: 0 15px;
+}
+
+.footer-contact ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.footer-icon {
+  margin-right: 10px;
+  color: #fff;
+}
+
+.footer-about h3 {
+  margin-bottom: 10px;
+}
+
+.footer-social {
+  text-align: center;
+}
+
+.footer-social div {
+  margin-bottom: 10px;
+}
+
+.footer-social a {
+  display: inline-block; /* Display icons inline */
+  margin: 0 10px; /* Add horizontal spacing between icons */
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-social a:hover {
+  color: #007bff;
+}
+
+/* Scroll to Top Button Styles */
+.footer-scroll-to-top-container {
+  margin-top: 40px; /* Space above the button */
+}
+
+.scroll-to-top-button {
+  background-color: #007bff; /* Primary color */
+  color: white;
+  border: none;
+  border-radius: 50px; /* Rounded button */
+  padding: 10px 15px;
+  cursor: pointer;
+  display: inline-flex; /* Inline to center */
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s, transform 0.3s;
+  font-size: 16px;
+}
+
+.scroll-to-top-button:hover {
+  background-color: #0056b3; /* Darker shade on hover */
+  transform: translateY(-2px); /* Slight lift on hover */
+}
